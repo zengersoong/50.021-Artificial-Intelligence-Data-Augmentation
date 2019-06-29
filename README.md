@@ -1,11 +1,13 @@
 ### 50.021 Artificial Intelligence
 #  Data Augmentation
 Testing out Data Augmentations
-Aim to find out what data augmentation, transform does to images
+#### Aim:  
+1. To find out what data augmentation, transform does to images.
+2. Performace of different number of crops.
 ##### Comparing Data Augmentation on images, single crop, five crop and ten crop 
-A. Single crop done manually without help of Pytorch Library
-B. Five Crop using pytorch Library
-C. Ten Cropt using pytorch Library
+A. Single crop done manually without help of Pytorch Library.   
+B. Five Crop using pytorch Library.  
+C. Ten Crop using pytorch Library.  
 
 ## Coursework Materials
 ###  Includes:

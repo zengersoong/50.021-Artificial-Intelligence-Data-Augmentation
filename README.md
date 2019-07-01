@@ -1,6 +1,6 @@
 ### 50.021 Artificial Intelligence
 #  Data Augmentation
-Testing out Data Augmentations
+Testing out Data Augmentations on images. Check Ipynb for print outs
 #### Aim:  
 1. To find out what data augmentation, transform does to images.
 2. Performace of different number of crops.
